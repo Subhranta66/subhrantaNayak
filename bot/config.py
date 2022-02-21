@@ -15,7 +15,7 @@
 from . import *
 
 try:
-    APP_ID = config("8858279", cast=int)
+    APP_ID = config(8858279, cast=int)
     API_HASH = config("ef28c3f458143cbcb4271a98a2e9d596")
     BOT_TOKEN = config("5116250977:AAHHDu6hZ_xyDOP0G5AMvArkM5n3RnFH76Q")
     DEV = 1664850827
