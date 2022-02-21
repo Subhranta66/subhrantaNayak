@@ -252,3 +252,11 @@ async def encod(event):
     except BaseException as er:
         LOGS.info(er)
         WORKING.clear()
+        
+        await ds.forward_to(LOG)
+    await dk.forward_to(LOG)
+    await nnn.delete()
+    COUNT.remove(e.chat_id)
+    os.remove(dl)
+    os.remove(out)
+   
