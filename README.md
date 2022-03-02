@@ -30,7 +30,6 @@ Add in [@BotFather](https://t.me/BotFather)
     logs - Get Bot Logs
     ping - Check Ping
     sysinfo - Get System Info
-    leech - Leech Links And Compress Video
     renew - Clear Cached Downloads, Queue etc
     clear - Clear Queued Files
     showthumb - Show Current Thumbnail
