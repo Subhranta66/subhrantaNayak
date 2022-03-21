@@ -11,7 +11,7 @@ A Telegram Bot To Encode Videos Using FFMPEG.
 
 `Heroku`
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Subhranta66/subhrantaNayak)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MuhammadFaizanArif/subhrantaNayak)
 
 `Railway` 
 
@@ -30,7 +30,6 @@ Add in [@BotFather](https://t.me/BotFather)
     logs - Get Bot Logs
     ping - Check Ping
     sysinfo - Get System Info
-    leech - Leech Links And Compress Video
     renew - Clear Cached Downloads, Queue etc
     clear - Clear Queued Files
     showthumb - Show Current Thumbnail
