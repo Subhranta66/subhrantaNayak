@@ -36,7 +36,6 @@ async def zylern(event):
 /logs - __Get Bot Logs__
 /ping - __Check Ping__
 /sysinfo - __Get System Info__
-/leech - __Leech Links And Compress Video__
 /renew - __Clear Cached Downloads__
 /clear - __Clear Queued Files__
 /showthumb - __Show Current Thumbnail__
